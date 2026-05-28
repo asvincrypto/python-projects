@@ -16,7 +16,7 @@
 - 🔭 Currently building beginner projects to sharpen my skills
 - 🌱 Learning: Data Structures, OOP, File Handling, and Python Libraries
 - 💬 Ask me about: Python basics, CLI tools, problem-solving
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **asvin.dutta@gmail.com**
 
 ---
 
